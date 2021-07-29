@@ -18,9 +18,9 @@ https://github.com/tesseract-ocr/tessdata
 pip install googletrans==4.0.0-rc1
 
 ## 동작
-
+### 실험 이미지
 ![image1](https://user-images.githubusercontent.com/73572179/127444642-3e4dc4dc-5e86-4dd7-a694-49d4fe58e5cf.jpeg)
-
+### 실험 이미지에서 출력된 텍스트
 ![image02](https://user-images.githubusercontent.com/73572179/127444750-ea401332-58ee-43cd-aeab-bc8f1be374fe.png)
-
+### 출력된 텍스트를 한국어로 번역
 ![image03](https://user-images.githubusercontent.com/73572179/127444904-e99b3cf7-60a2-4978-b75f-b9ea3cffa844.png)
