@@ -16,3 +16,11 @@ https://github.com/tesseract-ocr/tessdata
 
 터미널 창에 다음 명령어를 입력한다.
 pip install googletrans==4.0.0-rc1
+
+## 동작
+
+![image1](https://user-images.githubusercontent.com/73572179/127444642-3e4dc4dc-5e86-4dd7-a694-49d4fe58e5cf.jpeg)
+
+![image02](https://user-images.githubusercontent.com/73572179/127444750-ea401332-58ee-43cd-aeab-bc8f1be374fe.png)
+
+![image01](https://user-images.githubusercontent.com/73572179/127444765-47f1c521-27a1-44b4-bb79-205528342200.png)
