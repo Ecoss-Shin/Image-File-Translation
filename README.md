@@ -24,3 +24,5 @@ pip install googletrans==4.0.0-rc1
 ![image02](https://user-images.githubusercontent.com/73572179/127444750-ea401332-58ee-43cd-aeab-bc8f1be374fe.png)
 
 ![image01](https://user-images.githubusercontent.com/73572179/127444765-47f1c521-27a1-44b4-bb79-205528342200.png)
+
+![image03](https://user-images.githubusercontent.com/73572179/127444904-e99b3cf7-60a2-4978-b75f-b9ea3cffa844.png)
