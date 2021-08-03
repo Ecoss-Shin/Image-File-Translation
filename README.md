@@ -7,7 +7,9 @@
 https://github.com/UB-Mannheim/tesseract/wiki
 
 설치가 완료되면 터미널 창에 다음 명령어를 입력한다.  
+```
 pip install pytesseract
+```
 
 ### 최신 tessdata
 https://github.com/tesseract-ocr/tessdata
@@ -15,7 +17,9 @@ https://github.com/tesseract-ocr/tessdata
 ## googletrans 설치
 
 터미널 창에 다음 명령어를 입력한다.
+```
 pip install googletrans==4.0.0-rc1
+```
 
 ## 동작
 ### 실험 이미지
